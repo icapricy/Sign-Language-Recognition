@@ -1,6 +1,8 @@
 # Sign-Language-Recognition
 This code translates American Sign Language letters into English letters with maximum accuracy.
 
+To see a live demo, please visit this link: https://www.youtube.com/watch?v=3tYopcrOgHU&t=78s
+
 Libraries used in the Code:
 
 Tkinter/tk - to create the user interface (available in Python itself)
