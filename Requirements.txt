@@ -1,0 +1,5 @@
+Libraries used in the Code:
+1. Tkinter/tk - to create the user interface (available in Python itself)
+2. os - for the User Manual to be opened when the button is clicked (available in Python itself)
+3. cv2/opencv - to draw the hand structure, and to give the coordinates of each finger in order to recognize the letter (have to download externally)
+
